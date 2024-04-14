@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaronkellyuk" alt="aaronkellyuk" /></a> </p>
 
-- 🔭 I’m currently working on [LUCompSoc](https://compsoc.io)
+- 🔭 I’m currently working on my own portfolio site [here](https://aaronkelly.uk)
 
 - 👨‍💻 All of my projects are available at [github.com/aaronkellyuk](https://github.com/aaronkellyuk)
 
